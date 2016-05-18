@@ -1,42 +1,16 @@
-# 我的第一个markdown文件
-
-It is used for static website page
-
-here is some tips for you to get used to github
-
-1. the cited words
-
-```C
-    void main
-    {
-        printf("hello,world.");
-    }
-```
-
-```
-    if (isAwesome){
-      return true
-    }
-```
-
-After i grow up, i found myself is too simple too naive,for this amazing world wairing for me to explore.
+嗯嗯，给你搭了这样一个文件……你感受下
 
 
-2.and i wanna to embed an image in this markdome document
-![Image of MySelected](https://octodex.github.com/images/yaktocat.png)
+99669999996669999996699666699666999966699666699
+99699999999699999999699666699669966996699666699
+99669999999999999996699666699699666699699666699
+99666699999999999966666999966699666699699666699
+99666666999999996666666699666699666699699666699
+99666666669999666666666699666669966996699666699
+99666666666996666666666699666666999966669999996
 
-3.i wanna take a list for what i am going to do in this evening 
-  * dinner of a hotpot
-  * continue with your left code
-  * take a note before you sleep
-  
-4.and cited somewords from somewhere.
+按ctrl+f
 
-    不管全世界的所有人怎么说，我都认为自己的感受才是正确的。无论别人怎么看，我绝不打乱自己的节奏，喜欢的事自然可以坚持，不喜欢怎么也长久不了。
-    
-     No matter how other people round the world say, i do consider only what my feeling is is correct.
-     No matter how they thought about me , i do not interrupt my inner rhyme, naturally consisting to love of mine, the other would not be long.
-     
->朴上春树
+然后输入9 
 
-5.other tips just should be waited.
+有的浏览器需要「回车」
